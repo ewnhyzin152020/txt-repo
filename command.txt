@@ -1,3 +1,5 @@
 git init-to initialize git.
 git status->list untracked files.
+git remote add name path
+git push -u name master
 
